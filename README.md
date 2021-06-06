@@ -1,4 +1,4 @@
 # freeCodeCamp 
 
 
-Challenge werden hier hochgeladen 
+Challenges werden hier hochgeladen 
